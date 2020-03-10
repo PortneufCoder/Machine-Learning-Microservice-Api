@@ -1,9 +1,5 @@
 # Victor Ajani
 
-[![CircleCI](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/PortneufCoder/Machine-Learning-Microservice-Api)
-
-
-
 ## Create the environment
 
  1. Complete Docker installation
@@ -25,3 +21,5 @@
 ## CircleCI Integration
 
 This repository has been verified with CircleCI
+
+[![CircleCI](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/PortneufCoder/Machine-Learning-Microservice-Api)
