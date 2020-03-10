@@ -22,4 +22,4 @@
 
 This repository has been verified with CircleCI
 
-[![CircleCI](https://circleci.com/gh/karimg75/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/PortneufCoder/Machine-Learning-Microservice-Api)
+[![CircleCI](https://circleci.com/gh/PortneufCoder/Machine-Learning-Microservice-Api.svg?style=shield)](https://app.circleci.com/pipelines/github/PortneufCoder/Machine-Learning-Microservice-Api)
