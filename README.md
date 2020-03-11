@@ -1,6 +1,6 @@
 # Victor Ajani
 
-## This repo contains all the requirements to run a Machine Learning inference API. In other to get a working copy locally on your machine, do the following:
+> This repo contains all the requirements to run a Machine Learning inference API. In other to get a working copy locally on your machine, do the following:
 
 ## Create the environment
 
